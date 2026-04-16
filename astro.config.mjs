@@ -6,7 +6,7 @@ export default defineConfig({
     starlight({
       title: 'AI & Writing Wiki',
       social: [
-        { icon: 'github', link: 'https://github.com/kchoonsik/choonki' },
+        { label: 'GitHub', icon: 'github', href: 'https://github.com/kchoonsik/choonki' },
       ],
       sidebar: [
         {
