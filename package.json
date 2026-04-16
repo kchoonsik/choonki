@@ -1,7 +1,6 @@
 {
   "name": "my-ai-wiki",
   "version": "1.0.0",
-  "description": "AI & Writing Wiki for Developers",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
