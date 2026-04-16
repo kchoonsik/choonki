@@ -3,7 +3,7 @@ title: 이미지 생성 AI 총정리
 description: 채팅형, 로컬 설치형, 외부 서비스형 이미지 생성 AI 비교 및 정리
 ---
 
-이미지 생성 AI는 크게 사용 환경과 목적에 따라 세 가지 방식으로 분류할 수 있습니다.
+이미지 생성 AI는 크게 사용 환경과 목적에 따라 세 가지 방식으로 분류할 수 있습니다. 최신 오픈소스 모델의 흐름을 알고 싶다면 [허깅페이스 활용 가이드](/huggingface-guide/)를 참고하세요.
 
 ## 1. 지금 바로 써보기 (로그인 없이/간편 무료)
 가장 안정적으로 작동하며, 클릭하자마자 프롬프트를 넣을 수 있는 곳들입니다.
@@ -22,7 +22,7 @@ description: 채팅형, 로컬 설치형, 외부 서비스형 이미지 생성 A
 ## 3. 외부 서비스 및 플랫폼 기반 (실제 체험 링크)
 허깅페이스 등에서 제공하는 공식 모델 데모입니다. (서버 상태에 따라 대기가 있을 수 있음)
 
-- **[Flux.1 Schnell (Hugging Face)](https://huggingface.co/spaces/sayakpaul/flux.1-schnell)**: 현재 가장 핫한 모델인 Flux의 고속 버전을 직접 실행해 볼 수 있습니다.
+- **[Flux.1 Schnell (Hugging Face)](https://huggingface.co/spaces/sayakpaul/flux.1-schnell)**: 현재 가장 핫한 모델인 Flux의 고속 버전을 직접 실행해 볼 수 있습니다. 상세 분석은 [여기](/huggingface-guide/#이미지-생성-flux1-black-forest-labs)를 확인하세요.
 - **[SDXL Turbo (Real-time)](https://huggingface.co/spaces/google/sdxl-turbo)**: 글자를 입력하는 실시간으로 이미지가 변하는 것을 볼 수 있는 신기한 데모입니다.
 
 ---
