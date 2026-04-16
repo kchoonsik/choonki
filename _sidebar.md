@@ -1,3 +1,0 @@
-﻿- [소개](README.md)
-- [개발자 AI 전략](dev-ai.md)
-- [글쓰기 AI 전략](writing-ai.md)
