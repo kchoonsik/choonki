@@ -19,6 +19,7 @@ export default defineConfig({
             { label: '개발자 관점', link: '/dev-ai/' },
             { label: '글쓰기 관점', link: '/writing-ai/' },
             { label: '이미지 생성 AI', link: '/image-ai/' },
+            { label: '비디오 생성 AI', link: '/video-ai/' },
           ],
         },
       ],
