@@ -5,9 +5,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'AI & Writing Wiki',
-      social: [
-        { label: 'GitHub', link: 'https://github.com/kchoonsik/choonki' },
-      ],
+      social: {
+        github: 'https://github.com/kchoonsik/choonki'
+      },
       sidebar: [
         {
           label: '소개',
