@@ -1,11 +1,12 @@
 import withNextra from 'nextra'
 
 const withNextraConfig = withNextra({
-  // Nextra 옵션
+  theme: 'nextra-theme-docs',
+  themeConfig: './theme.config.jsx'
 })
 
 export default withNextraConfig({
-  // Next.js 옵션
+  reactStrictMode: true,
   images: {
     unoptimized: true
   }
