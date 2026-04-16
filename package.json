@@ -1,17 +1,18 @@
 {
-  "name": "my-ai-wiki",
-  "version": "1.0.0",
+  "name": "choonki",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.1.7",
-    "nextra": "3.1.0",
-    "nextra-theme-docs": "3.1.0",
+    "next": "15.2.1",
+    "nextra": "3.5.3",
+    "nextra-theme-docs": "3.5.3",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "@google/generative-ai": "latest"
+    "@google/generative-ai": "^0.21.0"
   }
 }
