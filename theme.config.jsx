@@ -1,3 +1,5 @@
+﻿import React from 'react'
+
 export default {
   logo: <span>My AI Wiki</span>,
   project: {
@@ -5,6 +7,6 @@ export default {
   },
   docsRepositoryBase: 'https://github.com/kchoonsik/choonki/blob/main',
   footer: {
-    text: '© 2024 My AI Wiki'
+    text: `© ${new Date().getFullYear()} My AI Wiki`
   }
 }
